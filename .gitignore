@@ -33,7 +33,6 @@ build/
 .vscode/
 
 ### Sensitive ###
-src/main/resources/application.properties
 *.log
 logs/
 Thumbs.db
